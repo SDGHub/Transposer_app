@@ -1,0 +1,2 @@
+﻿Lookback;100
+HighlightTimeInSecs;5
