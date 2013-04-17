@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Transposer.exe" size="26624">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Transposer.exe" size="27136">
       <assemblyIdentity name="Transposer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cyB6f94pmeHjOgY7lspiCJ6Y/kqpYxsK9QZ+nP2CTVo=</dsig:DigestValue>
+        <dsig:DigestValue>8vI3nPHOLY/FuJMm7NldfhA5iY3v4C1MSDPA1GTgtxc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
