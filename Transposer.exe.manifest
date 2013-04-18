@@ -86,13 +86,13 @@
       <dsig:DigestValue>YTN8mNse9e21edJdIfswmQkpXwoU1x7cAn4E1WRUxzg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Symbols.txt" size="456">
+  <file name="Symbols.txt" size="460">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>NgTYWlaH32fBaVGatbkDPkL9ukaG9q2zEfVuDVuXWq4=</dsig:DigestValue>
+      <dsig:DigestValue>stSx1yjFgjdqhuRfo1j9um2xY6m1jw6c5IXEQhMVjuQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Transposer.exe.config" size="187">
