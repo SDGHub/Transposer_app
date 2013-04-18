@@ -66,33 +66,33 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Transposer.exe" size="27648">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Transposer.exe" size="29184">
       <assemblyIdentity name="Transposer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>hdXvS97wbyTvP4J6LvayM8ERUULWUZB1isxVwVZKbyA=</dsig:DigestValue>
+        <dsig:DigestValue>cEWV4/Jenm1gq08MgRtmsnftkRmSlfpVKXHgzDBs3/I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Parameters.txt" size="55">
+  <file name="Parameters.txt" size="70">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>YTN8mNse9e21edJdIfswmQkpXwoU1x7cAn4E1WRUxzg=</dsig:DigestValue>
+      <dsig:DigestValue>TYnjO5k73odRbB3+nBKaUgwF5RzhXAwyBu/1tFE4CI8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Symbols.txt" size="460">
+  <file name="Symbols.txt" size="732">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>stSx1yjFgjdqhuRfo1j9um2xY6m1jw6c5IXEQhMVjuQ=</dsig:DigestValue>
+      <dsig:DigestValue>cL6jwynlq+F9mJvszk55uvI0ocsKQ+CpMETTbjvV1Ks=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Transposer.exe.config" size="187">
