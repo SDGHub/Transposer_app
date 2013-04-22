@@ -7,8 +7,8 @@ Ticker;EI269554 Corp,Name;JGB 7-Yr
 Ticker;EJ580150 Corp,Name;JGB 10-Yr
 Ticker;EJ593960 Corp,Name;JGB 20-Yr
 Ticker;EJ586107 Corp,Name;JGB 30-Yr
-# Ticker;FVA Comdty,Name;US 5-yr,Curncy;USDJPY Curncy,CurncyName;USDJPY
-# Ticker;TYA Comdty,Name;US 10-yr,Curncy;USDJPY Curncy,CurncyName;USDJPY
-# Ticker;USA Comdty,Name;US 30-yr,Curncy;USDJPY Curncy,CurncyName;USDJPY
-# Ticker;ESA Index,Name;S&P,Curncy;USDJPY Curncy,CurncyName;USDJPY
+Ticker;FVA Comdty,Name;US 5-yr,Curncy;USDJPY Curncy,CurncyName;USDJPY,CurncyMultp;0.01
+Ticker;TYA Comdty,Name;US 10-yr,Curncy;USDJPY Curncy,CurncyName;USDJPY,CurncyMultp;0.01
+Ticker;USA Comdty,Name;US 30-yr,Curncy;USDJPY Curncy,CurncyName;USDJPY,CurncyMultp;0.01
+# Ticker;ESA Index,Name;S&P,Curncy;USDJPY Curncy,CurncyName;USDJPY,CurncyMultp;0.01
 # USDJPY Curncy;USDJPY
